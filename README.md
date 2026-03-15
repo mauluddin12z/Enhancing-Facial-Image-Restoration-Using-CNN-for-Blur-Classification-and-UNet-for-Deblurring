@@ -1,4 +1,4 @@
-# Adaptive Facial Image Deblurring Using CNN-Based Blur Severity Classification and U-Net Restoration
+# Enhancing Facial Image Restoration Using CNN for Blur Severity Classification and U-Net for Deblurring
 
 ## Overview
 
